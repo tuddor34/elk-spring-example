@@ -1,0 +1,40 @@
+[INFO ] 2021-11-18 17:18:34.692 [main]  c.e.s.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 11.0.11 on nbdev018 with PID 6296 (/home/iovan/Development/other/kibana/spring-boot-demo/target/classes started by iovan in /home/iovan/Development/other/kibana/spring-boot-demo)
+[INFO ] 2021-11-18 17:18:34.699 [main]  c.e.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-11-18 17:18:35.063 [main]  c.e.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 0.601 seconds (JVM running for 2.4)
+[INFO ] 2021-11-18 17:18:35.066 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2021-11-18 17:18:35.068 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an info message.
+[WARN ] 2021-11-18 17:18:35.068 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is a warn message.
+[ERROR] 2021-11-18 17:18:35.068 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an error message.
+[INFO ] 2021-11-18 17:18:35.068 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application ended successfully ----------
+[INFO ] 2021-11-18 17:30:34.558 [main]  c.e.s.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 11.0.11 on nbdev018 with PID 10511 (/home/iovan/Development/other/kibana/spring-boot-demo/target/classes started by iovan in /home/iovan/Development/other/kibana/spring-boot-demo)
+[INFO ] 2021-11-18 17:30:34.566 [main]  c.e.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-11-18 17:30:34.990 [main]  c.e.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 0.766 seconds (JVM running for 1.634)
+[INFO ] 2021-11-18 17:30:34.994 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2021-11-18 17:30:34.995 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an info message.
+[WARN ] 2021-11-18 17:30:34.995 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is a warn message.
+[ERROR] 2021-11-18 17:30:34.996 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an error message.
+[INFO ] 2021-11-18 17:30:34.996 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application ended successfully ----------
+[INFO ] 2021-11-18 17:31:21.909 [main]  c.e.s.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 11.0.11 on nbdev018 with PID 10712 (/home/iovan/Development/other/kibana/spring-boot-demo/target/classes started by iovan in /home/iovan/Development/other/kibana/spring-boot-demo)
+[INFO ] 2021-11-18 17:31:21.919 [main]  c.e.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-11-18 17:31:22.275 [main]  c.e.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 0.643 seconds (JVM running for 1.456)
+[INFO ] 2021-11-18 17:31:22.278 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2021-11-18 17:31:22.279 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an info message.
+[WARN ] 2021-11-18 17:31:22.279 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is a warn message.
+[ERROR] 2021-11-18 17:31:22.280 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an error message.
+[INFO ] 2021-11-18 17:31:22.280 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application ended successfully ----------
+[INFO ] 2021-11-18 17:38:55.545 [main]  c.e.s.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 11.0.11 on nbdev018 with PID 11640 (/home/iovan/Development/other/kibana/spring-boot-demo/target/classes started by iovan in /home/iovan/Development/other/kibana/spring-boot-demo)
+[INFO ] 2021-11-18 17:38:55.553 [main]  c.e.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-11-18 17:38:55.911 [main]  c.e.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 0.651 seconds (JVM running for 1.493)
+[INFO ] 2021-11-18 17:38:55.915 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2021-11-18 17:38:55.915 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an info message.
+[WARN ] 2021-11-18 17:38:55.916 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is a warn message.
+[ERROR] 2021-11-18 17:38:55.916 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - This is an error message.
+[INFO ] 2021-11-18 17:38:55.917 [main] DEMO_IND_PARAM c.e.s.SpringBootDemoApplication - ---------- Spring Application ended successfully ----------
+[INFO ] 2021-11-18 17:51:45.548 [main]  c.e.s.SpringBootDemoApplication - Starting SpringBootDemoApplication using Java 11.0.11 on nbdev018 with PID 12781 (/home/iovan/Development/other/kibana/spring-boot-demo/target/classes started by iovan in /home/iovan/Development/other/kibana/spring-boot-demo)
+[INFO ] 2021-11-18 17:51:45.556 [main]  c.e.s.SpringBootDemoApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-11-18 17:51:45.902 [main]  c.e.s.SpringBootDemoApplication - Started SpringBootDemoApplication in 0.645 seconds (JVM running for 1.513)
+[INFO ] 2021-11-18 17:51:45.906 [main] DEMO c.e.s.SpringBootDemoApplication - ---------- Spring Application started successfully ----------
+[INFO ] 2021-11-18 17:51:45.906 [main] DEMO c.e.s.SpringBootDemoApplication - This is an info message.
+[WARN ] 2021-11-18 17:51:45.907 [main] DEMO c.e.s.SpringBootDemoApplication - This is a warn message.
+[ERROR] 2021-11-18 17:51:45.907 [main] DEMO c.e.s.SpringBootDemoApplication - This is an error message.
+[INFO ] 2021-11-18 17:51:45.907 [main] DEMO c.e.s.SpringBootDemoApplication - ---------- Spring Application ended successfully ----------
